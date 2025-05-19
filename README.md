@@ -13,4 +13,4 @@ ownercode.py has 3 functions:
 -the customer making the payment (has 1 parameter: the amount of ether to send to the seller) 
 
 
-Make sure you Ganache installed and running. 
+Make sure you have Ganache installed and running. 
